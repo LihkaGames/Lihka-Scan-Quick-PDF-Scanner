@@ -2,11 +2,12 @@
 
 # 📄 Lihka Scan: Quick PDF Scanner 📄
 
-### Scan. Convert. Secure. The Professional All-in-One Document Suite.
+### The Ultimate 20-in-1 Document Powerhouse. Scan, Manage, Secure, and Convert Instantly.
 
 <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
 <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Genre-Utility_Tool-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tools-20_Utilities-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Privacy-100%25_Offline-success?style=for-the-badge" />
 
 <br/><br/>
 
@@ -24,16 +25,10 @@
 
 <a href="https://github.com/LihkaGames/Lihka-Scan-Quick-PDF-Scanner/releases/download/v1.0.0/Lihka.Scan.Quick.PDF.Scanner.apk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=03DAC6&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%93%84+SCAN+%E2%80%A2+SECURE+%E2%80%A2+CONVERT;%F0%9F%8C%9F+LIHKA+SCAN+v1.0.0+%F0%9F%8C%9F">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=018786&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%93%84+SCAN+%E2%80%A2+SECURE+%E2%80%A2+CONVERT;%F0%9F%8C%9F+LIHKA+SCAN+v1.0.0+%F0%9F%8C%9F">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=03DAC6&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%93%84+SCAN+%E2%80%A2+SECURE+%E2%80%A2+CONVERT;%F0%9F%8C%9F+LIHKA+SCAN+v1.0.0+%F0%9F%8C%9F" alt="Download Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=03DAC6&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%93%84+20+TOOLS+%E2%80%A2+ZERO+FRICTION;%F0%9F%8C%9F+LIHKA+SCAN+v1.0.0+%F0%9F%8C%9F">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=018786&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%93%84+20+TOOLS+%E2%80%A2+ZERO+FRICTION;%F0%9F%8C%9F+LIHKA+SCAN+v1.0.0+%F0%9F%8C%9F">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=03DAC6&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%93%84+20+TOOLS+%E2%80%A2+ZERO+FRICTION;%F0%9F%8C%9F+LIHKA+SCAN+v1.0.0+%F0%9F%8C%9F" alt="Download Animation" />
   </picture>
-</a>
-
-<br/>
-
-<a href="https://github.com/LihkaGames/Lihka-Scan-Quick-PDF-Scanner/releases/download/v1.0.0/Lihka.Scan.Quick.PDF.Scanner.apk">
-  <img src="https://img.shields.io/badge/📱_Install_on_Android-018786?style=for-the-badge&logoColor=white" />
 </a>
 
 ---
@@ -42,37 +37,53 @@
 
 <br/>
 
-## 🛠️ Advanced App Features
+## 🌟 Core Architecture & Features
 
-**Lihka Scan** is powered by Google ML Kit and high-performance processing to provide a desktop-grade PDF experience on your mobile device.
+Designed with a strict "Direct Play" philosophy, Lihka Scan requires **zero registration or login**. You get instant, frictionless access to a desktop-grade document suite right from the first launch.
 
-| Category | Features |
-|:----------|:-------------|
-| ⚡ **Direct Play** | Instant access to all tools. No login or registration required. |
-| 🛡️ **Security Suite** | Add/Remove Passwords and create Digital Signatures directly on PDFs. |
-| 🔍 **Scan Special** | AI-Powered ID Card & Passport scanning with OCR Text extraction. |
-| 🎨 **Edit & Filter** | Professional Filter Studio, Color Inverter, and Reorder/Rotate pages. |
-| 🔄 **Converter** | Image to PDF, Text to PDF, PDF to Image, and QR Code scanning. |
-| 📂 **Management** | Organize with custom Folders (Documents, Notes, Photos, Receipts). |
+### 🗂️ Smart Document Management
+* **Advanced Organization:** Keep your workspace clean with dedicated folders for *Documents, Notes, Photos,* and *Receipts*, plus the ability to create infinite custom folders.
+* **Quick Access Navigation:** Navigate rapidly using top-tier sorting filters: *All Docs, Folders, Recent, Starred,* and custom *Tags*.
+* **Intuitive Gestures:** Seamlessly swipe right to share or swipe left to delete documents instantly from the list view.
+* **Storage Dashboard:** Monitor your device's capacity with a real-time storage tracker showing precise bytes used across PDFs, Images, and total files.
+
+### 📊 Comprehensive Analytics
+* **Document Statistics:** Access a deep-dive statistical view of your entire library, tracking total files, folders, and storage footprints.
+* **Activity Tracking:** Monitor your productivity with a built-in 7-day activity chart.
+* **Exportable Reports:** Generate and export your entire document statistics dashboard as a pristine PDF report with a single tap.
+
+### 🔒 Enterprise-Grade Security
+* **App Lock:** Secure your entire application vault by requiring biometric or PIN authentication before opening.
+* **PDF Encryption:** Add high-strength passwords to PDFs, securely remove existing passwords (PRO feature), and bind documents with Digital Signatures.
+* **Privacy First:** Total offline processing ensures your sensitive data (like OCR scans of ID cards and Passports) never leaves your device.
+
+### 🌙 Adaptive UI
+* **Native Dark Mode:** Toggle Dark Mode directly from the app settings to reduce eye strain in low-light environments, triggering a sleek, deep-charcoal aesthetic.
+* **Custom Views:** Toggle instantly between high-density list views and visual grid layouts.
 
 ---
 
-## ⚙️ Technical Details
+## 🛠️ The Complete 20-Tool Suite
 
-* **Intelligence**: Powered by Google ML Kit for 50+ language OCR and auto-cropping.
-* **UI Design**: High-fidelity dark mode interface with vibrant neon player tokens and accents.
-* **Monetization**: Optimized manual waterfall integration (AdMob, Unity Ads, Start.io).
-* **Architecture**: 100% native Java/XML development for 60 FPS fluid animations.
-* **Size**: 221 MB high-resolution package containing full offline processing libraries.
+Lihka Scan is equipped with a specialized toolkit designed to handle any document requirement:
+
+| Category | Included Professional Tools |
+|:----------|:-------------|
+| **📄 PDF TOOLS** | • **Image to PDF:** Single or multi-image support.<br>• **PDF to Image:** Export high-quality PNGs up to 300 DPI.<br>• **Merge PDFs:** Drag-to-reorder interface with a 40-50% size compression toggle.<br>• **Extract Pages:** Process massive PDFs up to 100MB.<br>• **Compress PDF** • **Rotate Pages** • **Reorder Pages** |
+| **🛡️ SECURITY** | • **Add Password** • **Digital Sign** • **Remove Password (PRO)** |
+| **🔄 CONVERT** | • **PDF to Text** • **Text to PDF** • **QR Scanner** • **Share as Long Image (HOT)** |
+| **🎨 EDIT** | • **Image Filters** • **PDF Color Inverter** |
+| **🔍 SCAN SPECIAL** | • **ID Card Scan (HOT)** • **Passport Scan** • **OCR Text** |
+| **⚙️ UTILITIES** | • **File Compressor** |
 
 ---
 
 <div align="center">
 
-## 📝 How to Install
-1. Click the **Download APK** button above.
-2. Open the downloaded file (**Lihka.Scan.Quick.PDF.Scanner.apk**) on your Android device.
-3. Allow **"Installation from Unknown Sources"** if prompted in your settings.
-4. Launch **Lihka Scan** and start managing your documents with zero friction!
+## 📝 Quick Installation Guide
+1. Click the **Download APK** button at the top of this page.
+2. Locate and open **Lihka.Scan.Quick.PDF.Scanner.apk** on your Android device.
+3. If prompted, enable **"Installation from Unknown Sources"** in your device security settings.
+4. Launch the app and experience instant productivity—no sign-up required!
 
 </div>
